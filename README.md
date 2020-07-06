@@ -12,7 +12,7 @@ The spreadsheet presents the live value of your portfolio and records this infor
 
 *The Portfolio Tracker is set up to automatically record values for 8 assets (5 Stocks, 1 Bonds ETF, 1 Commodities ETF, 1 Cash) which can be adjusted to any chosen assets available on Google Finance, to add more assets see below.**
 
-- The 'Portfolio' sheet contains all live information about assets in the portfolio. Once data is initially manually inputted cells updated live - the data is used for the 'Portfolio Breakdown' graphs in the 'Summary' sheet. 
+- The 'Portfolio' sheet contains all live information about assets in the portfolio. Once data is initially manually inputted, cells update live - the data is used for the 'Portfolio Breakdown' graphs in the 'Summary' sheet. 
 - The 'Summary' sheet contains analysis of portfolio returns and graphs - analysis is manually calculated using formalas and data recorded in other sheets.
 - The 'Current Historical Portfolio (Asset Type)' sheet contains automatically recorded historical data of the asset types in the portfolio e.g. stocks, bonds etc. - the data is used for the 'Portfolio Wealth (Asset Type)' graph in the 'Summary' sheet. 
 - The 'Current Historical Portfolio (Per Asset)' sheet contains automatically recorded historical data of the individual assets in the portfolio e.g. Facebook, Apple etc. - the data is used for the 'Portfolio Wealth (Per Asset)' graph in the 'Summary' sheet. 
