@@ -62,6 +62,8 @@ The spreadsheet presents the live value of your portfolio and records this infor
 
   - To analyse your own data, see the formulas in the example cells and replicate for your own data set. The risk free rate can be found at the hyperlink of the cell 'A3'.
 
+
+# Additional Information:
 **If spaces for more assets are required this can be done by adding to the code in 'Tools' > 'Script editor', and adding rows and columns to the 'Portfolio', 'Current Historical Portfolio (Asset Type)' and 'Current Historical Portfolio (Per Asset)' sheets. Unfortunately, to detail this process with instructions would result in a huge set of instructions, with a lot of detail, and would take a significant amount of time, as such I can only provide instructions on how to use the spreadsheet in its current form and cannot instruct how to code more assets and features. If you need to add more assets I suggest making another copy of the spreadsheet and creating a 'separate' portfolio, or you can learn to edit the code yourself (highly recommend this!). :)*
          
 **Disclaimer: The example assets in this document are only example assets and do not consist of a recommendation to buy or sell example assets. This document is for portfolio tracking and analysis and does not consist of financial advice.*
