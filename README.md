@@ -21,7 +21,7 @@ The spreadsheet presents the live value of your portfolio and records this infor
 1) Go to 'File > Make a copy', to save the Portfolio Tracker to your Google Drive.
 2) Adding and removing assets:
 
-          'Portfolio' Sheet: Current Assets
+      'Portfolio' Sheet: Current Assets
 
   - The 5 Stocks, 1 Bonds ETF, and 1 Commodities ETF are example assets, these are to be replaced with desired assets.
   - Cells in the columns: 'Ticker', 'Quantity', 'Date of First Holding', 'Purchase Price Per Share', 'Purchase Price (£), 'Interest, Dividends and Distributions', and the asset name require manual input of data relevant to desired assets.
