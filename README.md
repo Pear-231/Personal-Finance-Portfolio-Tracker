@@ -64,7 +64,9 @@ The spreadsheet presents the live value of your portfolio and records this infor
   - On the 'Portfolio' sheet, in the 'Day Change (%)' column, cell 'Q8', set the value to a value greater than the set alert level % change e.g. if 'Day Gain Alert Level 1 (%)' is set to 0.5%, set cell 'Q8' to e.g. 10%, this will update the 'Send Count' in the cell next to the 'Alert at (%)' to confirm the email is sent, and the chosen email address will receive an email alert.
   - Once the test email is received, in the 'Portfolio' sheet, click 'Edit' > 'Undo', until cell 'Q8' is returned to it's original formula before the e.g. 10% manually inputted.
   
-An Example Email: ![Image](https://drive.google.com/uc?export=view&id=1rmzePowaGZqSt6DIv_nEWlOfIjbnBJ1r)
+**Example Email:**
+
+![Image](https://drive.google.com/uc?export=view&id=1rmzePowaGZqSt6DIv_nEWlOfIjbnBJ1r)
    
 4) Summary: analysing the data.
 
