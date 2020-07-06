@@ -4,7 +4,7 @@ A live automatic portfolio tracker in Google Sheets featuring:
 - Automatic data recording for analysis and graphs.
 - Automatic email alerts at portfolio % changes.
 
-**[Download 'Portfolio Tracker (Template)' Here](https://docs.google.com/spreadsheets/d/1qa_QXoe13nbo7LfTOzBdMx3ibzbVT2_czGgw-78hWHI/)** 
+**[Download 'Portfolio Tracker (Template)' Here!](https://docs.google.com/spreadsheets/d/1qa_QXoe13nbo7LfTOzBdMx3ibzbVT2_czGgw-78hWHI/)** 
 
 **To use all the features of this document a google account is required.*
   
@@ -82,7 +82,9 @@ The spreadsheet presents the live value of your portfolio and records this infor
 # Code used in Google Script:
 
 
-<// Menu for testing script in sheet
+>
+
+// Menu for testing script in sheet
 function inSheetUse() {
   var menu = [{name: "portfolioDayChangeAlert", functionName: "portfolioDayChangeAlert"}, {name: "inDayPortfolioChange", functionName: "inDayPortfolioChange"}, 
               {name: "currentHistoricalPortfolioAssetType", functionName: "currentHistoricalPortfolioAssetType"}, {name: "currentHistoricalPortfolioPerAsset", functionName: "currentHistoricalPortfolioPerAsset"}, 
@@ -91,7 +93,7 @@ function inSheetUse() {
 }
 
 
-> // function to send email alerts
+  // function to send email alerts
 function portfolioDayChangeAlert() {
   
   // Skip week-end
