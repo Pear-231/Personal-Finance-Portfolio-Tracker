@@ -15,10 +15,13 @@ The spreadsheet presents the live value of your portfolio and records this infor
 - The 'Current Historical Portfolio (Per Asset)' sheet contains automatically recorded historical data of the individual assets in the portfolio e.g. Facebook, Apple etc. - the data is used for the 'Portfolio Wealth (Per Asset)' graph in the 'Summary' sheet. 
 - The 'Realised Historical Portfolio (Per Asset)' sheet contains any assets that have previously been automatically recorded in the 'Current Historical Portfolio (Per Asset)' sheet, and are no longer held.
 - The 'In-Day Portfolio Change' sheet contains automatically recorded data of the portfolio value throughout the day - the data is used for the 'In-Day Portfolio Change' graph displayed in email alerts.
-- Email Alerts are automatically sent when alert levels (set in the 'Additional Information' section of the 'Portfolio' sheet) are breached. 
+- Email alerts are automatically sent when alert levels (set in the 'Additional Information' section of the 'Portfolio' sheet) are breached. 
 
 # Instructions:
 1) Go to 'File > Make a copy', to save the Portfolio Tracker to your Google Drive.
-2) See the example sheets and data.
-3) 
-
+2) See the sheets filled with example stocks, and data.
+3) 'Portfolio' Sheet: Current Assets
+- The 5 Stocks, 1 Bonds ETF, and 1 Commodities ETF are example assets, these are to be replaced with desired assets.
+- Cells in the columns: 'Ticker', 'Quantity', 'Date of First Holding', 'Purchase Price Per Share', 'Purchase Price (£), 'Interest, Dividends and Distributions', and the asset name require manual input of data relevant to desired assets.
+    - 'Ticker': Google Finance ticker information can be found by Google searching for the desired asset's ticker e.g. 'facebook ticker', copy the ticker e.g. 'NASDAQ: FB', and remove the space between the stock exchange and the company so it is formatted 'NASDAQ:FB'.
+    - Input data for 'Ticker', 'Quantity' etc. into the respective cells by following the examples in the template document, this process is repeated for each asset type. For 'Cash', data inputted is slightly different, follow the example. 
