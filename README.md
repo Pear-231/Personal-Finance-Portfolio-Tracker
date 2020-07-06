@@ -3,8 +3,8 @@ A live automatic portfolio tracker in Google Sheets featuring:
   - Live portfolio value tracking
   - Automatic data recording for analysis and graphs
   - Automatic email alerts at portfolio % changes
-  
-# Portfolio Tracker (Template): https://docs.google.com/spreadsheets/d/1qa_QXoe13nbo7LfTOzBdMx3ibzbVT2_czGgw-78hWHI/
+
+Portfolio Tracker (Template): https://docs.google.com/spreadsheets/d/1qa_QXoe13nbo7LfTOzBdMx3ibzbVT2_czGgw-78hWHI/
   
 # What is it?
 The spreadsheet presents the live value of your portfolio and records this information and other information such as share price, % changes, and weights every day for historical records, analysis, and producing graphs. The Portfolio Tracker is automated using javascript written in the Google Sheets script editor (similar to Excel's VBA). At set times, portfolio values are automatically recorded and stored in seperate sheets in the document. These historical values are used in the 'Portfolio' sheet for total and periodic change values, and in the 'Summary' sheet for analysis of returns and graphs.
