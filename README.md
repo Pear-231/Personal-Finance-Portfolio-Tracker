@@ -81,10 +81,7 @@ The spreadsheet presents the live value of your portfolio and records this infor
 
 # Code used in Google Script:
 
-
->
-
-// Menu for testing script in sheet
+<// Menu for testing script in sheet
 function inSheetUse() {
   var menu = [{name: "portfolioDayChangeAlert", functionName: "portfolioDayChangeAlert"}, {name: "inDayPortfolioChange", functionName: "inDayPortfolioChange"}, 
               {name: "currentHistoricalPortfolioAssetType", functionName: "currentHistoricalPortfolioAssetType"}, {name: "currentHistoricalPortfolioPerAsset", functionName: "currentHistoricalPortfolioPerAsset"}, 
@@ -346,4 +343,4 @@ function resetSheetsData() {
   sheetPortfolio.getRange('C34').setValue("0");
   sheetPortfolio.getRange('C35').setValue("0");
   sheetPortfolio.getRange('C36').setValue("0");
-}
+}>
