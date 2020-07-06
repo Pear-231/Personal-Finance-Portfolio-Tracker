@@ -27,7 +27,7 @@ The spreadsheet presents the live value of your portfolio and records this infor
 
   *'Portfolio' Sheet: Current Assets*
 
-  - Cells in the columns: 'Ticker', 'Quantity', 'Date of First Holding', 'Purchase Price Per Share', 'Purchase Price (£), 'Interest, Dividends and Distributions', and the asset name require manual input of data relevant to chosen assets. The 5 Stocks, 1 Bonds ETF, 1 Commodities ETF and 1 Cash are example assets*, these are to be replaced with chosen assets.
+  - Cells in the columns 'Ticker', 'Quantity', 'Date of First Holding', 'Purchase Price Per Share', 'Purchase Price (£), 'Interest, Dividends and Distributions', and the asset name require manual input of data relevant to chosen assets. The 5 Stocks, 1 Bonds ETF, 1 Commodities ETF and 1 Cash are example assets*, these are to be replaced with chosen assets.
       - 'Ticker': Google Finance ticker information can be found by Google searching for the chosen asset's ticker e.g. 'facebook ticker', copy the ticker e.g. 'NASDAQ: FB', and remove the space between the stock exchange and the company so it is formatted 'NASDAQ:FB'.
       - Input data for 'Ticker', 'Quantity' etc. into the respective cells by following the examples in the template document, this process is repeated for each asset type Stocks, Bonds etc.. For 'Cash', only data for the 'Date of First Holding' and 'Purchase Price (£)' is required.
       - For 'Interest, Dividends and Distributions' cells, input data when relevant.
