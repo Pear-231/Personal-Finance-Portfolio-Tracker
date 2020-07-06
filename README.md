@@ -27,10 +27,11 @@ The spreadsheet presents the live value of your portfolio and records this infor
 
   *'Portfolio' Sheet: Adding New Assets*
 
-  - Assets currently held are in the 'Stocks', 'Bonds', 'Commodities' and 'Cash' sections. To replace the example assets and add new assets, follow these steps:
-  - Cells in the columns 'Ticker', 'Quantity', 'Date of First Holding', 'Purchase Price Per Share', 'Purchase Price (£), 'Interest, Dividends and Distributions', and the asset name require manual input of data relevant to chosen assets. The 5 Stocks, 1 Bonds ETF, 1 Commodities ETF and 1 Cash are example assets*, these are to be replaced with chosen assets.
+To replace the example assets and add new assets, follow these steps:
+  - Assets currently held are in the 'Stocks', 'Bonds', 'Commodities' and 'Cash' sections. 
+  - Manually input data in the cells in the columns 'Ticker', 'Quantity', 'Date of First Holding', 'Purchase Price Per Share', 'Purchase Price (£), 'Interest, Dividends and Distributions', copying the example assets.
       - 'Ticker': Google Finance ticker information can be found by Google searching for the chosen asset's ticker e.g. 'facebook ticker', copy the ticker e.g. 'NASDAQ: FB', and remove the space between the stock exchange and the company so it is formatted 'NASDAQ:FB'.
-      - Input data for 'Ticker', 'Quantity' etc. into the respective cells by following the examples in the template document, this process is repeated for each asset type Stocks, Bonds etc.. For 'Cash', only data for the 'Date of First Holding' and 'Purchase Price (£)' is required.
+      - For 'Cash', only data for the 'Date of First Holding' and 'Purchase Price (£)' is required.
       - For 'Interest, Dividends and Distributions' cells, input data when relevant.
 
   *'Portfolio' Sheet: Removing Sold Assets*
@@ -40,6 +41,7 @@ The spreadsheet presents the live value of your portfolio and records this infor
 
 3) Sheets Automation: setting up the 'Current Historical Portfolio' and 'In-Day Portfolio Change' sheets for automation.
 
+To automate the collection of data for historical records and analysis follow these steps:
   - Go to 'Tools' > 'Script editor'. This is where the code for the automation is stored.
   - Click the clock icon on the top bar or go to 'Edit > Current Project Triggers'.
   - Click 'Add Trigger': Under 'Choose which function to run' select 'portfolioDayChangeAlert', under 'Select event source' select 'Time-driven', under 'Select type of time based trigger' select 'Minutes timer', click save. If a screen appears that reads 'This app isn't verified', click 'Advanced' > 'Go to portfolio Scripts (unsafe)' > 'Allow'.
@@ -52,6 +54,7 @@ The spreadsheet presents the live value of your portfolio and records this infor
   
 3) Email Automation: adding the user's email address, setting alert levels and receiving a test email.
 
+To set up automatic email alerts follow these steps:
   - On the 'Portfolio' sheet: 
       - Under 'Additional Information' - 'Email Address', replace 'youremailgoeshere@email' with a chosen email address. 
       - Under 'Additional Information' - 'Email Alerts' - 'Alert at (%)', set the % changes, that if breached will trigger alert emails notifying you of the breach.
@@ -62,7 +65,7 @@ The spreadsheet presents the live value of your portfolio and records this infor
    
 4) Summary: analysing the data.
 
-  - To analyse your own data, see the formulas in the example cells and replicate for your own data set. The risk free rate can be found at the hyperlink of the cell 'A3'.
+  - To analyse your own data, see the formulas in the example cells, copy and apply them for your own data set. The risk free rate can be found at the hyperlink of the cell 'A3'.
   
 5) 'Realised Historical Portfolio (Per Asset)': moving realised assets.
 
