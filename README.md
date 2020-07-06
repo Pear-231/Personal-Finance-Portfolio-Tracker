@@ -24,7 +24,7 @@ The spreadsheet presents the live value of your portfolio and records this infor
 - The 5 Stocks, 1 Bonds ETF, and 1 Commodities ETF are example assets, these are to be replaced with desired assets.
 - Cells in the columns: 'Ticker', 'Quantity', 'Date of First Holding', 'Purchase Price Per Share', 'Purchase Price (£), 'Interest, Dividends and Distributions', and the asset name require manual input of data relevant to desired assets.
     - 'Ticker': Google Finance ticker information can be found by Google searching for the desired asset's ticker e.g. 'facebook ticker', copy the ticker e.g. 'NASDAQ: FB', and remove the space between the stock exchange and the company so it is formatted 'NASDAQ:FB'.
-    - Input data for 'Ticker', 'Quantity' etc. into the respective cells by following the examples in the template document, this process is repeated for each asset type. For 'Cash', data inputted is slightly different, follow the example.    
+    - Input data for 'Ticker', 'Quantity' etc. into the respective cells by following the examples in the template document, this process is repeated for each asset type. For 'Cash', data inputted is slightly different, follow the example.
 'Portfolio' Sheet: Realised Assets
 - When assets are sold, copy the cells of an asset and paste them in the 'Sold' section, remover the asset from the 'Stocks' section.
 - Cells in the columns: 'Sold Price Per Share' and 'Sold Price (£)' require manual input of data.
