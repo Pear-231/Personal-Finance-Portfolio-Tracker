@@ -65,7 +65,7 @@ The spreadsheet presents the live value of your portfolio and records this infor
   
 5) 'Realised Historical Portfolio (Per Asset)': moving realised assets.
 
-  - Once an asset is sold, in the 'Current Historical Portfolio (Per Asset)' sheet, copy the data in the columns for Asset Name and 'Quantity and paste it in the 'Realisd Historical Portfolio (Per Asset)', adding new columns as requried. Once this is done, follow the instructions in step '2.' on moving an asset into the 'Sold Assets (Realised)' of the 'Portfolio' sheet.
+  - Once an asset is sold, in the 'Current Historical Portfolio (Per Asset)' sheet, copy the data in the columns for asset name and 'Quantity and paste it in the 'Realisd Historical Portfolio (Per Asset)', adding new columns as requried. Once this is done, follow the instructions in step '2.' on moving an asset into the 'Sold Assets (Realised)' of the 'Portfolio' sheet.
 
 # Additional Information:
 **If spaces for more assets are required this can be done by adding to the code in 'Tools' > 'Script editor', and adding rows and columns to the 'Portfolio', 'Current Historical Portfolio (Asset Type)' and 'Current Historical Portfolio (Per Asset)' sheets. Unfortunately, to detail this process with instructions would result in a huge set of instructions, with a lot of detail, and would take a significant amount of time, as such I can only provide instructions on how to use the spreadsheet in its current form and cannot instruct how to code more assets and features. If you need to add more assets I suggest making another copy of the spreadsheet and creating a 'separate' portfolio, or you can learn to edit the code yourself (highly recommend this!). :)*
