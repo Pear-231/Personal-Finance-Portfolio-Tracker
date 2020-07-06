@@ -22,8 +22,8 @@ The spreadsheet presents the live value of your portfolio and records this infor
 - Email alerts are automatically sent when alert levels (set in the 'Additional Information' section of the 'Portfolio' sheet) are breached e.g. if % day change is greater than 'Day Gain Alert Level 1', an email alert is sent. There are 2 types of email alerts, 'Loss Alerts' and 'Gain Alerts'; email alerts feature information about 'Day Change (%)' and key insights on portfolio changes over week, month and total periods.
  
 # Instructions:
-1) Go to 'File' > 'Make a copy', to save the Portfolio Tracker to your Google Drive.
-2) Using the 'Portfolio' Sheet: adding and removing assets.
+**1) Go to 'File' > 'Make a copy', to save the Portfolio Tracker to your Google Drive.**
+**2) Using the 'Portfolio' Sheet: adding and removing assets.**
 
 *To replace the example assets and add new assets in the 'Portfolio' sheet, follow these steps:*
 
@@ -38,7 +38,7 @@ The spreadsheet presents the live value of your portfolio and records this infor
   - When assets are sold, copy the cells of an asset and paste them in the 'Sold Assets (Realised)' section, copying the example sold asset. Then remove the asset from the 'Stocks' section.
   - Cells in the columns: 'Sold Price Per Share' and 'Sold Price (£)' require manual input of data.
 
-3) Sheets Automation: setting up the 'Current Historical Portfolio' and 'In-Day Portfolio Change' sheets for automation.
+**3) Sheets Automation: setting up the 'Current Historical Portfolio' and 'In-Day Portfolio Change' sheets for automation.**
 
 *To automate the collection of data for historical records and analysis follow these steps:*
 
@@ -52,7 +52,7 @@ The spreadsheet presents the live value of your portfolio and records this infor
   - The triggers have all been loaded, this page can be closed.
   - To test these functions, in the Portfolio Tracker document go to the 'Current Historical Portfolio (Asset Type) sheet, on the top bar click 'Functions' > click currentHistoricalPortfolioAssetType and a new row will will be added for today's data. This row can be deleted after the test is completed.
   
-3) Email Automation: adding the user's email address, setting alert levels and receiving a test email.
+**4) Email Automation: adding the user's email address, setting alert levels and receiving a test email.**
 
 *To set up automatic email alerts follow these steps:*
 
@@ -68,11 +68,11 @@ The spreadsheet presents the live value of your portfolio and records this infor
 
 ![Image](https://drive.google.com/uc?export=view&id=1rmzePowaGZqSt6DIv_nEWlOfIjbnBJ1r)
    
-4) Summary: analysing the data.
+**5) Summary: analysing the data.**
 
   - To analyse your own data, see the formulas in the example cells, copy and apply them for your own data set. The risk free rate can be found at the hyperlink of the cell 'A3'.
   
-5) 'Realised Historical Portfolio (Per Asset)': moving realised assets.
+**6) 'Realised Historical Portfolio (Per Asset)': moving realised assets.**
 
   - Once an asset is sold, in the 'Current Historical Portfolio (Per Asset)' sheet, copy the data in the columns for asset name and 'Quantity and paste it in the 'Realisd Historical Portfolio (Per Asset)', adding new columns as requried. Once this is done, follow the instructions in step '2.' on moving an asset into the 'Sold Assets (Realised)' of the 'Portfolio' sheet.
 
