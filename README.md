@@ -20,7 +20,7 @@ The spreadsheet presents the live value of your portfolio and records this infor
 - The 'Realised Historical Portfolio (Per Asset)' sheet contains any assets that have previously been automatically recorded in the 'Current Historical Portfolio (Per Asset)' sheet, and are no longer held.
 - The 'In-Day Portfolio Change' sheet contains automatically recorded data of the portfolio value throughout the day - the data is used for the 'In-Day Portfolio Change' graph displayed in email alerts.
 - Email alerts are automatically sent when alert levels (set in the 'Additional Information' section of the 'Portfolio' sheet) are breached e.g. if % day change is greater than 'Day Gain Alert Level 1', an email alert is sent. There are 2 types of email alerts, 'Loss Alerts' and 'Gain Alerts'; email alerts feature information about 'Day Change (%)' and key insights on portfolio changes over week, month and total periods.
-
+ 
 # Instructions:
 1) Go to 'File' > 'Make a copy', to save the Portfolio Tracker to your Google Drive.
 2) Using the 'Portfolio' Sheet: adding and removing assets.
