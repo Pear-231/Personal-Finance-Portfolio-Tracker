@@ -4,7 +4,7 @@ A live automatic portfolio tracker in Google Sheets featuring:
 - Automatic data recording for analysis and graphs.
 - Automatic email alerts at portfolio % changes.
 
-**Download Portfolio Tracker (Template) Here: https://docs.google.com/spreadsheets/d/1qa_QXoe13nbo7LfTOzBdMx3ibzbVT2_czGgw-78hWHI/**
+**Download 'Portfolio Tracker (Template)':** https://docs.google.com/spreadsheets/d/1qa_QXoe13nbo7LfTOzBdMx3ibzbVT2_czGgw-78hWHI/
 **To use all the features of this document a google account is required.*
   
 # What is it?
