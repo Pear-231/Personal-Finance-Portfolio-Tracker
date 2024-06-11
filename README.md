@@ -1,4 +1,4 @@
-# Portfolio Tracker
+# Personal-Finance-Portfolio-Tracker
 A live automatic portfolio tracker in Google Sheets using JavaScript featuring:
 - Live portfolio value tracking. 
 - Automatic asset data recording for analysis and graphs.
