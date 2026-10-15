@@ -1,2 +1,2 @@
-# Portfolio-Tracker
-A live portfolio tracker in google sheets, automatically recording portfolio values for historical records and sending portfolio change alert emails.
+# Personal-Finance-Portfolio-Tracker
+A live automatic portfolio tracker in Google Sheets using JavaScript (Google Apps Script).
